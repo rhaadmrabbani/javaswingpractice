@@ -6,7 +6,7 @@ The important classes are AppFrame, ControlPanel, and ExperimentPanel.
 AppFrame has a ControlPanel and an ExperimentPanel as its children.
 In turn, each of ControlPanel and ExperimentPanel has built-in Java Swing classes like JButton and JComboBox as its children.
 
-You should use the GridLayoutTask code ss the starter code for the tasks described below.
+You should use the GridLayoutTask code as the starter code for the tasks described below.
 
 
 
