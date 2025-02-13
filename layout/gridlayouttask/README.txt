@@ -1,4 +1,5 @@
 I have re-written GridLayoutDemo from the official Java tutorials as GridLayoutTask.
+Link to original code: https://docs.oracle.com/javase/tutorial/uiswing/examples/layout/GridLayoutDemoProject/src/layout/GridLayoutDemo.java
 I re-structured the code in a manner that I believe works well with Java Swing programming.
 
 The class hierarchy of GridLayoutTask closely resembles the UI hierarchy.
