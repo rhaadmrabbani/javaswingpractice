@@ -71,7 +71,6 @@ Create a sub-class for JComboBox that behaves as described below:
 - shows a blank option as the first option, followed by the string representations of the list of objects it is provided
   [we can easily achieve this by calling the super class constructor with a list of string representations with an empty string in the first position]
 - override getSelectedIndex() so that it returns -1 if blank option is selected, and 0, 1, etc for the other options
-  If it takes take {10, 15, 20} as its input 
 
 Now, modify the app code to use, instead of JComboBox, this sub-class of JComboBox.
 Instead of {0, 10, 15, 20}, we will now use a GAP_LIST of {10, 15, 20}
